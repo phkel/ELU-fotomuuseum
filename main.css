@@ -36,7 +36,6 @@ header {
   font-size: 0.9em;
   max-width: 90%; 
   line-height: 1.4;
-  text-align: justify;
 }
 
 .c-hero__title p a {
@@ -109,7 +108,6 @@ footer {
   }
 
   .c-hero__title p {
-    font-size: 1em;
     max-width: 80%; 
     line-height: 1.6;
   }
@@ -140,12 +138,13 @@ footer {
   header {
     margin-bottom: 60px;
   }
+
   .c-hero__title h1 {
     font-size: 7em;
   }
 
   .c-hero__title p {
-    font-size: 1.2em;
+    font-size: 1em;
     max-width: 86%; 
     line-height: 1.6;
   }
@@ -159,7 +158,7 @@ footer {
 @media (min-width: 1000px) {
 
   header {
-    padding-top: 120px;
+    padding-top: 90px;
     margin-bottom: 120px;
   }
 
@@ -176,7 +175,7 @@ footer {
   }
 
   .c-hero__title p {
-    font-size: 1.4em;
+    font-size: 1.2em;
     max-width: 96%; 
     line-height: 1.6;
   }
